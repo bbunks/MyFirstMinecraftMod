@@ -1,0 +1,96 @@
+****************************
+ Powered By MCP:             
+ http://mcp.ocean-labs.de/   
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+ MCP Data version : unknown
+****************************
+:extractMcpData
+:getVersionJson
+:extractUserDev
+:genSrgs
+:extractNatives UP-TO-DATE
+:getAssetsIndex
+:getAssets
+Current status: 1/686   0%
+Current status: 28/686   4%
+Current status: 44/686   6%
+Current status: 60/686   8%
+Current status: 75/686   10%
+Current status: 75/686   10%
+Current status: 109/686   15%
+Current status: 122/686   17%
+Current status: 131/686   19%
+Current status: 146/686   21%
+Current status: 155/686   22%
+Current status: 176/686   25%
+Current status: 191/686   27%
+Current status: 203/686   29%
+Current status: 232/686   33%
+Current status: 247/686   36%
+Current status: 247/686   36%
+Current status: 254/686   37%
+Current status: 264/686   38%
+Current status: 270/686   39%
+Current status: 281/686   40%
+Current status: 287/686   41%
+Current status: 303/686   44%
+Current status: 335/686   48%
+Current status: 363/686   52%
+Current status: 373/686   54%
+Current status: 391/686   56%
+Current status: 393/686   57%
+Current status: 400/686   58%
+Current status: 419/686   61%
+Current status: 449/686   65%
+Current status: 458/686   66%
+Current status: 463/686   67%
+Current status: 463/686   67%
+Current status: 478/686   69%
+Current status: 503/686   73%
+Current status: 507/686   73%
+Current status: 526/686   76%
+Current status: 528/686   76%
+Current status: 530/686   77%
+Current status: 551/686   80%
+Current status: 555/686   80%
+Current status: 579/686   84%
+Current status: 609/686   88%
+Current status: 612/686   89%
+Current status: 616/686   89%
+Current status: 626/686   91%
+Current status: 649/686   94%
+Current status: 672/686   97%
+Current status: 682/686   99%
+:makeStartwarning: [options] bootstrap class path not set in conjunction with -source 1.6
+1 warning
+
+:downloadMcpTools
+:downloadClient
+:downloadServer
+:mergeJars
+Adding cpw/mods/fml/relauncher/SideOnly.class
+Adding cpw/mods/fml/relauncher/Side.class
+:deobfuscateJar
+Applying SpecialSource...
+Applying Exceptor...
+:decompile
+:processSources
+Injecting fml files
+Applying fml patches
+Applying forge patches
+:remapJar
+:extractMinecraftSrc
+:recompMinecraftwarning: [options] bootstrap class path not set in conjunction with -source 1.6
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 warning
+
+:repackMinecraft
+:setupDecompWorkspace
+
+BUILD SUCCESSFUL
+
+Total time: 7 mins 36.862 secs
